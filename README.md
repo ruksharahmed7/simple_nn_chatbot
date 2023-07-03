@@ -6,6 +6,9 @@
 - words.pkl: training data words lemmatized by NLTK and saved
 - classes.pkl: class/intent values are saves
 
+# Streamlit App
+[https://simplennchatbot-wf4f7dut2u.streamlit.app/](https://simplennchatbot-wf4f7dut2u.streamlit.app/)
+
 # reference
 
 [Python Chatbot Tutorial | How to Create Chatbot Using Python | Python For Beginners | Simplilearn](https://www.youtube.com/watch?v=t933Gh5fNrc)
